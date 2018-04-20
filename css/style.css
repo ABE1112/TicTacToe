@@ -1,0 +1,26 @@
+body {
+    width: 550px;
+    margin: auto;
+}
+
+h1 {
+    border-bottom: 1px solid black;
+}
+
+.Square {
+height: 120px;
+width: 120px;
+font-size: 65pt;
+text-align: center;
+}
+
+#Clear {
+    margin: auto;
+    padding: 2%;
+    width: 70%;
+    background: azure;
+    font-size: 18pt;
+    font-family: cursive;
+    text-decoration: none;
+    color: black;
+}
